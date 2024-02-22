@@ -53,6 +53,16 @@ python3 synthesize.py --source preprocessed_data/DailyTalk/val_*.txt --restore_s
 ```
 to synthesize all utterances in `preprocessed_data/DailyTalk/val_*.txt`.
 
+## Citing
+To cite this repository:
+```bibtex
+@article{liu2023emotion,
+  title={Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling},
+  author={Liu, Rui and Hu, Yifan and Ren, Yi and Yin, Xiang and Li, Haizhou},
+  journal={arXiv preprint arXiv:2312.11947},
+  year={2023}
+}
+```
 
 ## Author
 
