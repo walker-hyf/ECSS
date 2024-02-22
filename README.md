@@ -11,7 +11,7 @@ This is an implementation of the following paper.
 [Speech Demo](https://walker-hyf.github.io/ECSS/)
 
 ## Dependencies
-* For details about the operating environment dependency, see [FCTalker](https://github.com/walker-hyf/FCTalker/edit/main/README.md).
+* For details about the operating environment dependency, see [FCTalker](https://github.com/walker-hyf/FCTalker/).
 * You also need to install [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/stable/index.html)（Used to support heterogeneous graph neural networks）
 
 ## Dataset
