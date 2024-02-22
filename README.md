@@ -18,7 +18,7 @@ This is an implementation of the following paper.
 * You can download [dataset](https://drive.google.com/drive/folders/1WRt-EprWs-2rmYxoWYT9_13omlhDHcaL) from DailyTalk.
 * You can get the emotion category and emotion intensity annotation information in the ./preprocessed_data/DailyTalk/ folder.
 
-`1_1_d30|1|{Y EH1 S AY1 N OW1}|yes, i know.|none|1` The format of each piece of data is representing `sentence ID| speaker | phoneme sequence | original content | emotion | emotion intensity`
+`1_1_d30|1|{Y EH1 S AY1 N OW1}|yes, i know.|none|1` The format of each piece of data is representing `sentence ID|speaker|phoneme sequence|original content|emotion|emotion intensity`
 
 ## Preprocessing
 
