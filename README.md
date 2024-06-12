@@ -56,12 +56,16 @@ to synthesize all utterances in `preprocessed_data/DailyTalk/val_*.txt`.
 ## Citing
 To cite this repository:
 ```bibtex
-@article{liu2023emotion,
-  title={Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling},
+@inproceedings{liu2024emotion,
+  title={Emotion rendering for conversational speech synthesis with heterogeneous graph-based context modeling},
   author={Liu, Rui and Hu, Yifan and Ren, Yi and Yin, Xiang and Li, Haizhou},
-  journal={arXiv preprint arXiv:2312.11947},
-  year={2023}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={17},
+  pages={18698--18706},
+  year={2024}
 }
+
 ```
 
 ## Author
